@@ -1,32 +1,41 @@
-# Projeto de Estudo do Site da STARBUCKS
+# Estudo do Site da STARBUCKS
 
-!Logo da STARBUCKS
+## Índice
+- Sobre o Projeto
+- Tecnologias Utilizadas
+- Funcionalidades
+- Instalação e Execução
+- Contribuição
+- Licença
+- Contato
+- Agradecimentos
 
 ## Sobre o Projeto
-Este projeto é um estudo do site da STARBUCKS, recriado com o uso de HTML, CSS e JavaScript para fins educacionais e de prática de desenvolvimento web.
+Este projeto é um estudo detalhado do site da STARBUCKS, recriado utilizando as tecnologias web HTML, CSS e JavaScript. O objetivo é analisar e entender as práticas de design e desenvolvimento que contribuem para a experiência do usuário no site oficial.
 
 ## Tecnologias Utilizadas
-- **HTML**: Estruturação da página e conteúdo.
-- **CSS**: Estilização e design responsivo.
-- **JavaScript**: Funcionalidades interativas e dinâmicas.
+- **HTML5**: Para a estrutura semântica da página.
+- **CSS3**: Para estilos visuais e design responsivo.
+- **JavaScript ES6**: Para interatividade e dinâmica no cliente.
 
-## Estrutura do Projeto
-- `index.html`: Página principal do site.
-- `styles.css`: Arquivo de estilos CSS.
+## Funcionalidades
+- **Navegação Responsiva**: Um menu de navegação que se adapta a diferentes tamanhos de tela.
+- **Menu Intuitivo**: Estudo sobre HOVER.
 
-## Como Executar
-1. Clone o repositório para sua máquina local.
-2. Abra o arquivo `index.html` em um navegador de sua escolha.
+## Instalação e Execução
+Para rodar o projeto localmente, siga estes passos:
+1. Clone o repositório para sua máquina.
+2. Abra o arquivo `index.html` em seu navegador de preferência.
 
-## Contribuições
-Contribuições são sempre bem-vindas! Por favor, leia o arquivo `CONTRIBUTING.md` para mais detalhes sobre como contribuir para este projeto.
+## Contribuição
+Contribuições são muito bem-vindas! Se você tem uma sugestão para melhorar este projeto será muito bem vinda
 
 ## Licença
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações.
 
 ## Contato
-Para entrar em contato, por favor envie um e-mail para alminidev@gmail.com
+Seu Nome - alminidev@gmail.com
 
 ## Agradecimentos
-- A todos que contribuíram para este projeto.
-- À STARBUCKS por inspirar este estudo.
+- Agradeço à STARBUCKS pela inspiração para este projeto.
+- A todos que contribuíram para o desenvolvimento e aprimoramento deste estudo.
