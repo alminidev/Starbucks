@@ -21,7 +21,7 @@ Este repositório é dedicado ao meu estudo de caso sobre o site da Starbucks. A
 - `index.html` - Página principal do site.
 - `styles/` - Diretório contendo os arquivos CSS.
 - `scripts/` - Diretório contendo os arquivos JavaScript.
-- `assets/` - Imagens e outros recursos utilizados no site.
+- `img/` - Imagens e outros recursos utilizados no site.
 
 ## Aprendizados Chave
 
