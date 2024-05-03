@@ -1,41 +1,27 @@
-# Estudo do Site Starbucks ☕️
+# Estudo do Site da STARBUCKS
+
+!Logo da STARBUCKS
 
 ## Introdução
+Este documento apresenta uma análise estratégica do site da STARBUCKS, explorando diversos aspectos da presença online da empresa e como ela se alinha com suas estratégias de negócios e marketing.
 
-Este repositório é dedicado ao meu estudo de caso sobre o site da Starbucks. Aqui, você encontrará uma análise detalhada e reconstrução do site, focando no uso de **JavaScript**, **HTML** e **CSS** para criar uma experiência de usuário rica e interativa.
+## Análise Externa
+- **Visão Geral da Indústria**: A STARBUCKS opera no setor de café e lanches, que passou por uma desaceleração em 2009 devido à crise econômica e mudanças nos gostos dos consumidores[^1^][1].
+- **Concorrência**: A empresa domina o mercado com uma participação de 36,7%, seguida pela Dunkin Brands com 24,6%[^1^][1].
 
-## Tópicos de Estudo
+## Análise Interna
+- **História da Empresa**: Fundada em 1971, a STARBUCKS cresceu de uma loja em Seattle para uma presença global com mais de 30.000 locais[^2^][2].
+- **Produtos e Serviços**: Oferece uma ampla gama de cafés, chás, bebidas e alimentos, adaptando-se às preferências locais[^2^][2].
 
-- **HTML**: Estrutura e semântica das páginas web.
-- **CSS**: Estilização avançada e design responsivo.
-- **JavaScript**: Interatividade do usuário e manipulação do DOM.
+## Estratégia Internacional
+- **Adaptação Local**: A STARBUCKS adota uma abordagem localizada, ajustando itens do menu e designs de lojas para atender aos gostos e preferências locais[^3^][4].
 
-## Linguagens Utilizadas
+## Conclusão
+A análise do site da STARBUCKS revela uma forte integração entre a presença online da empresa e sua estratégia global, destacando a importância de adaptar-se às dinâmicas do mercado local.
 
-- !JavaScript
-- !HTML5
-- !CSS3
+## Referências
+- [Análise Estratégica da STARBUCKS - Harvard](https://scholar.harvard.edu/files/nithingeereddy/files/starbucks_case_analysis.pdf)
+- [Estudo de Caso da STARBUCKS - StartupTalky](https://startuptalky.com/starbucks-case-study/)
+- [Estratégia Internacional da STARBUCKS - Accelingo](https://www.accelingo.com/starbucks-international-strategy/)
 
-## Estrutura do Repositório
-
-- `index.html` - Página principal do site.
-- `styles/` - Diretório contendo os arquivos CSS.
-- `img/` - Imagens e outros recursos utilizados no site.
-
-## Aprendizados Chave
-
-- Desenvolvimento de um layout que se adapta a diferentes tamanhos de tela.
-- Criação de animações e transições suaves com CSS.
-- Implementação de funcionalidades dinâmicas com JavaScript.
-
-## Como Usar
-
-Clone o repositório e abra o arquivo `index.html` em seu navegador para ver a reconstrução do site Starbucks em ação.
-
-## Contribuições
-
-Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melhorar o código ou a documentação, por favor, abra uma issue ou envie um pull request.
-
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+Espero que este exemplo seja útil para o seu estudo do site da STARBUCKS!
