@@ -1,7 +1,7 @@
 # Estudo do Site da STARBUCKS
 
 <p align="center">
-  <img src="https://www.logogenie.net/images/articles/starbucks-logo8.jpg" alt="Exemplo de imagem" width="1000"/>
+  <img src="https://doclogo.com/articles/img/15012021banner.jpg" alt="Exemplo de imagem" width="1000"/>
 </p>
 
 ## Índice
