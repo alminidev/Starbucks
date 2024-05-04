@@ -1,7 +1,7 @@
 # Estudo do Site da STARBUCKS
 
 <p align="center">
-  <img src=" https://c2.peakpx.com/wallpaper/470/862/392/starbucks-logo-siren-abstract-white-wallpaper-preview.jpg " alt="Exemplo de imagem" width="200"/>
+  <img src="https://www.logogenie.net/images/articles/starbucks-logo8.jpg" alt="Exemplo de imagem" width="1000"/>
 </p>
 
 ## Índice
