@@ -38,7 +38,7 @@ Contribuições são muito bem-vindas! Se você tem uma sugestão para melhorar 
 Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações.
 
 ## Contato
-Seu Nome - alminidev@gmail.com
+Alexandre Mieli Poletini (Almini) - alminidev@gmail.com
 
 ## Agradecimentos
 - Agradeço à STARBUCKS pela inspiração para este projeto.
