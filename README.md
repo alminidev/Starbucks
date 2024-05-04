@@ -1,5 +1,9 @@
 # Estudo do Site da STARBUCKS
 
+<p align="center">
+  <img src=" https://c2.peakpx.com/wallpaper/470/862/392/starbucks-logo-siren-abstract-white-wallpaper-preview.jpg " alt="Exemplo de imagem" width="200"/>
+</p>
+
 ## Índice
 - Sobre o Projeto
 - Tecnologias Utilizadas
